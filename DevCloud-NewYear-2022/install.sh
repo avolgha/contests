@@ -40,6 +40,6 @@ if [[ ! :$PATH: == *:"$LOCATION":* ]]; then
 	echo "         the directory: $LOCATION"
 	echo "tip: in bash, you can add this line to your bashrc:"
 	echo ""
-	echo "  export PATH=\"$PATH:$LOCATION\""
+	echo "  export PATH=\"\$PATH:$LOCATION\""
 	echo ""
 fi
