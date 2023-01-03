@@ -17,9 +17,15 @@
 2. skript ausführbar machen: `chmod +x install.sh`
 3. skript ausführen: `./install.sh`
 
+## Known Bugs
+
+**1) P10K Insta Line**  
+Nutzt man P10K im "Insta Line"-Modus, so wird neujahr.py fehlerhaft ausgeführt und es kommt zu einem Fehler in der Konsole. Dies ist jedoch ein Problem von P10K an dem wir nichts ändern können. Willst du dennoch neujahr.py nutzen, solltest du den Modus deaktivieren.
+
 ## Support
 
-Support gibt es entweder über GitHub oder über Discord.
+Support gibt es entweder über GitHub oder über Discord.  
+Bitte schaue vorher nach, ob dein Problem unter "Known Bugs" zu finden ist.
 
 Bei GitHub einfach einen Issue öffnen mit dem Namen der Challenge als Titel.
 
